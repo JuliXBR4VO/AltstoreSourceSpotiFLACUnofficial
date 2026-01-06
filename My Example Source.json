@@ -1,0 +1,43 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/tphRdrt.png",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "SpotiFLAC",
+      "bundleIdentifier": "com.zarz.spotiflacAndroid",
+      "marketplaceID": "",
+      "developerName": "Original dev: zarzet",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/NPYclFT.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/zarzet/SpotiFLAC-Mobile/releases/download/v2.1.0-preview/SpotiFLAC-v2.1.0-preview-ios-unsigned.ipa",
+          "size": 20400000,
+          "version": "2.0.6",
+          "buildVersion": null,
+          "date": "2026-01-06T07:29:00+01:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "SpotiFLAC needs access to save album artwork"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
